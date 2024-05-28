@@ -11,7 +11,7 @@
 	<groupId>com.aws</groupId>
 	<artifactId>aws-deploy-project-1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>aws-deploy-project-1</name>
+	<name>aws-s3-upload-download</name>
 	<description>Demo project for Spring Boot aws</description>
 	<properties>
 		<java.version>17</java.version>
